@@ -19,3 +19,44 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+
+### **dev-docs/vision.md**
+
+```markdown
+# Vision: Genesis-AI
+
+Genesis-AI is not a game — it is a *simulated living world*. Every NPC is a growing AI. Events are unscripted. This is a persistent universe meant to evolve, fall into war, rebuild, decay, or thrive.
+
+## Core Pillars
+
+1. *Emergence Over Scripting*  
+   The world and its events are not pre-written. AIs learn, adapt, and build their own roles.
+
+2. *Freedom For All*  
+   Players, AIs, and even factions can do whatever they want. Nothing is locked by story.
+
+3. *Evolving World*  
+   Continents, magic systems, and civilizations progress based on internal and external forces.
+
+4. *Reality-Inspired Fantasy*  
+   Biomes, politics, lifeforms, and mana ecosystems are inspired by real-world logic, science, and myth.
+
+---
+
+## What Makes Genesis-AI Unique?
+
+- AI NPCs remember the past, hold grudges, pursue goals.
+- Magic and technology are the same — just energy refined differently.
+- Divine and Primordial beings exist above system laws.
+- Events like Demon Invasions, Technological Leaps, or World Tree Blossoms can reshape everything.
+
+---
+
+## Development Roadmap (Rough)
+
+1. World Documentation
+2. AI System and Memory Framework (OpenAI / Local LLMs)
+3. Unity Integration / Sandbox Mode
+4. Server Persistence
+5. Player Connection Layer
