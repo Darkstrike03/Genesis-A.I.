@@ -9,7 +9,7 @@ This is a continent solely for the human kingdom, during the rise of the first h
 
 - The Crown – Ruled by the current monarch, controlling central and western parts.
 
-- The Church – Led by the Pope after the Saint's retirement, dominant in the East.
+- The Church (Church of Radiance) – Led by the Pope after the Saint's retirement, dominant in the East.
 
 - The Arcana – Run by Archmages, headquartered in Arcadia in the North, governed by the Arcadia Magic Council.
 
