@@ -30,11 +30,11 @@ Few races’ individuals, like dwarves, beastkins, some humans reached their pea
 ## CURRENT SITUATION:
 Currently the six continents are divided with the 5 major races and 1 minor races. 
 
--*CONTINENT 1:*-Solwynd- Human kingdom (partial-neutral)
--*CONTINENT 2:*-Sylvareth- Elven kingdom (racist)
--*CONTINENT 3:*-Ignaroth- Dragon kingdom (partial-neutral)
--*CONTINENT 4:*-Zor’Maleth- Demon kingdom (racist-neutral)
--*CONTINENT 5:*-Automaris- Animian kingdom (neutral-racist)
--*CONTINENT 6:*-Veridorn- chaos zone or neutral kingdom(neutral)
+- *CONTINENT 1:*-Solwynd- Human kingdom (partial-neutral)
+- *CONTINENT 2:*-Sylvareth- Elven kingdom (racist)
+- *CONTINENT 3:*-Ignaroth- Dragon kingdom (partial-neutral)
+- *CONTINENT 4:*-Zor’Maleth- Demon kingdom (racist-neutral)
+- *CONTINENT 5:*-Automaris- Animian kingdom (neutral-racist)
+- *CONTINENT 6:*-Veridorn- chaos zone or neutral kingdom(neutral)
 
 The new age or what we can call it post-invasion age or the present time, is the time for healing. Races are getting more oriented, amassing power, and more organized. Everything is on track.
