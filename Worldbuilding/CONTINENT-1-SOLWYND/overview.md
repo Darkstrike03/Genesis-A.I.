@@ -13,6 +13,20 @@ This is a continent solely for the human kingdom, during the rise of the first h
 
 - The Arcana – Run by Archmages, headquartered in Arcadia in the North, governed by the Arcadia Magic Council.
 
+## 🏰 Origin of the Empire
+
+- Solwynd is a human continent unified under the rule of King Arthur Lysandor.
+
+- After unification, he established the Lysandor Empire and mysteriously vanished a decade later.
+
+- His disappearance led to the court splitting into three powerful factions:
+
+  - The Crown (Royalty & Nobility)
+
+  - The Church (Spiritual Authority, led by the Pope)
+
+  - The Arcana (Magical Authority, governed by the Arcadia Magic Council)
+
 ## 📜 Administrative Hierarchy
 
 ### Capital: Lysandria (center of Solwynd)
@@ -77,6 +91,16 @@ This is a continent solely for the human kingdom, during the rise of the first h
 
   - Home to the capital city Lysandria.
 
+## 🌄 Geography
+
+- Solwynd is shaped like Asia, with the east and south bordering seas.
+
+- Four Grand Duchies (North, East, South, West), each governed by a Grand Duke/Duchess.
+
+- 4 Major Rivers and at least 5 Tributaries ensure fertile lands.
+
+- Central region hosts the Capital.
+
 ## 🌊 Rivers & Geography
 
 ### 4 Major Rivers:
@@ -99,14 +123,74 @@ East and South: Coastal access.
 
 ### Connected to continent Veridorn to the west (like Europe to Asia).
 
-## 🕯️ Current State
+## 🗣️ Language & Culture
 
-- No current demon invasions, but past threats keep factions cooperative.
+- A Universal Language was created after unification, but each region retains its own dialect.
 
+- North (Arcadia): Magic-celebrity culture, mages highly respected.
+
+- East (Church): Hosts many holy festivals like the Harvest and Freedom Festivals.
+
+- South (Crown): Noble culture, centralized governance.
+
+- West: Balanced mix of traditions, civic pride.
+
+## 🛐 Factions & Power Dynamics
+
+- The Crown controls majority of territory, focused on stability and prosperity.
+
+- The Church controls religious rites, beliefs, and spiritual traditions. The Saint has retired.
+
+- The Arcana control magic education and research through Arcadia and the 8 Magic Towers.
+
+- Despite internal divisions, they remain united under threat of demons and due to deep-rooted systems.
+
+## ⚔️ Intrigue & Society
+
+- No active demon invasion, but demonic and holy cults operate in shadows.
+
+- Society faces tension between conservatives and extremists.
+
+- Covert alliances and power plays between factions.
+  
 - Rise of secret cults:
 
   - Holy Cults – Extremists manipulating faith.
 
   - Demonic Cults – Operating in shadows, destabilizing regions.
+## 💰 Economy
 
-  - Internal tension and intrigue are rising.
+- Trade thrives thanks to well-built roads and basic magical communication.
+
+- Arcadia and Church distribute arcane and holy goods respectively:
+
+  - Arcane: Potions, scrolls, enchanted items.
+
+  - Church: Holy water, charms, relics.
+
+- Goods depend on terrain; specifics will be defined per region.
+
+- Economy has flourished under Crown-supported infrastructure.
+
+## 🧝 Races & Tolerance
+
+- Primarily human, but non-humans (Elves, Dwarves, etc.) are integrated diplomatically.
+
+- Partial tolerance: slavery still exists, indicating internal inequality and unrest.
+
+## ⚙️ Era & Technology
+
+- Midway between medieval and renaissance.
+
+- Magic is universal but only accessible through learning and natural talent.
+
+- Many types of magic exist (to be detailed in magic system doc).
+
+## 🌍 External Diplomacy
+
+- Veridorn (neighboring continent): Not unified, filled with roaming factions and internal chaos.
+
+- Solwynd maintains cold diplomatic ties with factions across Veridorn.
+
+- Peaceful diplomatic relationships with Elves, Dwarves, and planned future sea races.
+
