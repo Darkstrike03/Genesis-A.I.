@@ -1,16 +1,16 @@
 # Important Figures:
 - 1st generation king: Arthur Lysandor.
- - 2nd generation king: Darius Lysandor.
+  - 2nd generation king: Darius Lysandor.
 - 1st generation saint: Elyria Aurelias.
 - 1st generation Archmage: Caelthorn Valeries.
- - 2nd generation Archmage: Therone Covaris. (council)(Null)
- - 2nd generation Archmage: Aurelion Nyxios. (council)(fire)
- - 2nd generation Archmage: Sera Kael. (council)(water)
- - 2nd generation Archmage: Velmira Thane. (council)(wood)
- - 2nd generation Archmage: Borion Gaelos. (council)(Earth)
- - 2nd generation Archmage: Solenne Myr. (council)(Astrology)
- - 2nd generation Archmage: Dantevill Kryll. (council)(Dark)
- - 2nd generation Archmage: Oliver Hermes. (council)(Light)
- - 2nd generation: Pope Valemund 
- - 2nd generation: Holy knight Valen Ardan
- - 2nd generation: kingdom’s knight Lucien Ardan  
+  - 2nd generation Archmage: Therone Covaris. (council)(Null)
+  - 2nd generation Archmage: Aurelion Nyxios. (council)(Fire)
+  - 2nd generation Archmage: Sera Kael. (council)(Water)
+  - 2nd generation Archmage: Velmira Thane. (council)(Wood)
+  - 2nd generation Archmage: Borion Gaelos. (council)(Earth)
+  - 2nd generation Archmage: Solenne Myr. (council)(Astrology)
+  - 2nd generation Archmage: Dantevill Kryll. (council)(Dark)
+  - 2nd generation Archmage: Oliver Hermes. (council)(Light)
+  - 2nd generation: Pope Valemund 
+  - 2nd generation: Holy knight Valen Ardan
+  - 2nd generation: kingdom’s knight Lucien Ardan  
