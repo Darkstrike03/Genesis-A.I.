@@ -27,7 +27,7 @@ During this time new leaders emerged and society was formed. A human king, named
 - *REAL HISTORY:*- It can be said there is not too much changes with the main fact being the invasion cannot be called an invasion in a correct sense.
 Few races’ individuals, like dwarves, beastkins, some humans reached their peak and got no way to take the next step, so during the experiment to break their level few experiments were conducted which eventually led to breaking the barrier which separated the demon realm and real world and this demon invasion took place. 
 
-##CURRENT SITUATION:
+## CURRENT SITUATION:
 Currently the six continents are divided with the 5 major races and 1 minor races. 
 
 -*CONTINENT 1:*-Solwynd- Human kingdom (partial-neutral)
