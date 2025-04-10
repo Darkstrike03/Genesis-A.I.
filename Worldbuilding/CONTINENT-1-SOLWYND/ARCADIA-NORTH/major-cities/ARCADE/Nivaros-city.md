@@ -1,6 +1,6 @@
-## 🧊 Nivaros - Minor City of the North (Under Arcade)
+## 🧨 Nivaros - Minor City of the North (Under Arcade)
 
-### 🏞️ Overview
+### 🏜️ Overview
 - **Name:** Nivaros  
 - **Type:** Frozen Lake City  
 - **Biome:** Glacial basin with surrounding frost plains  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🏘️ Towns & Villages under Nivaros
+### 🏨 Towns & Villages under Nivaros
 
 #### 1. **Frosmere** *(Town)*
 - **Specialty:** Mana-infused glacial farming, cold-resistant herbs.
@@ -43,9 +43,21 @@
 - **Key Feature:** Echo caverns that hum with latent mana.
 - **Hazard:** Occasional magic quakes due to unstable ley compression.
 
+#### 6. **Glacivale** *(Village)*
+- **Specialty:** Ice-crystal music and magical resonance.
+- **Key Feature:** Houses the *Harmonic Dome*, where sound-based magic is studied and performed in frozen harmonics.
+
+#### 7. **Thrymshade** *(Village)*
+- **Specialty:** Camouflage magic and stealth under extreme cold.
+- **Key Feature:** Village hidden under aurora-ice cliffs; known for crafting frost cloaks used by Arcadian scouts.
+
+#### 8. **Eiswyn** *(Village)*
+- **Specialty:** Frozen fauna sanctuary and magical beast research.
+- **Key Feature:** Located near the Glimmerwake ice shelf; breeds frostdrakes and glacial wolves.
+
 ---
 
-### 🧊 Architecture
+### 🧨 Architecture
 - Crystalized ice towers reinforced by magic.
 - Light-infused pathways that glow with aquatic hues.
 - Underlake chambers for research labs and mana condensation tanks.
@@ -65,8 +77,6 @@
 - Birthplace of the Frostweave Cloak enchantment.
 - Houses the **Aquarae Spire**, a Water Tower observatory.
 - Nearby leyline surge point occasionally causes localized auroras.
-
----
 
 > Nivaros is a symbol of Arcadian harmony with nature — cold, calculated, and breathtakingly beautiful in form and function.
 
