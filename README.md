@@ -24,5 +24,8 @@ The current era is *3005 P.E. (Peace Era)* — 500 years after the devastating D
 
 This project is in the *worldbuilding and planning phase*. If you’re a developer, worldbuilder, writer, or artist — feel free to contribute.
 
+---
+It is a universe in itself, we can call it a virtual universe. 
+
 ```bash
 git clone https://github.com/Darkstrike03/Genesis-A.I..git
