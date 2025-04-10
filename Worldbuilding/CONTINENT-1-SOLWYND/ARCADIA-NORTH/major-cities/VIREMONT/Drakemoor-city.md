@@ -50,7 +50,5 @@
 - **Forgeheart Crucible:** Central core of arcane blacksmithing embedded in cooled magma
 - **Ember Sanctum:** Ritual chamber for fire mages, constantly aflame but safe for channelers
 
----
 
-Would you like to proceed with **Highreach** next?
 
